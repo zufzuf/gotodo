@@ -1,2 +1,2 @@
-# go-todo
+# GoTodo
 Go Todo
